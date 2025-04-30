@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte dos trabalhos do curso no **IFSC** para
 ## **Como Executar**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lucasSanto5s/Projeto_computacaoGrafica.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
